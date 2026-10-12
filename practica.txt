@@ -1,0 +1,1 @@
+GitHub sirve en proyectos colaborativos para que varias personas trabajen en el mismo proyecto al mismo tiempo, con control de versiones, historial de cambios, ramas, revisión de código mediante pull requests y seguimiento de tareas con issues.
